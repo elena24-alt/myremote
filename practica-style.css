@@ -1,0 +1,190 @@
+*{
+    
+    
+    font-family: Roboto;
+    font-family: "Cabin", serif;
+    font-optical-sizing: auto;
+    font-weight:100px;
+    font-style:normal;
+    margin: 0;
+    
+    
+}
+
+
+header{
+    background-color: #d3a6bec1;
+    
+
+
+}
+
+.titulob{
+    padding-bottom:  30%;
+    margin-top: 0%;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 50px;
+
+
+}
+
+.pyg{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+
+    
+}
+
+.pyg img{
+    border-radius: 50%;
+    width: 40%;
+   margin-bottom: 35%;
+}
+
+
+body{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: rgb(243,243,243);
+background: linear-gradient(0deg, rgba(238,200,225,0.856821952413778) 100% rgba(243,243,243,1) 0%);
+}
+
+
+h1{
+    color: #c588a9;
+    text-align: center;
+    background-color:#ffffff;
+    margin: -10px 0px 0px 0px;
+    padding: 0px;
+}
+
+h2{
+    color: #c588a9;
+    background-color: #f0e1e9;
+   
+   
+
+}
+
+table{
+    margin-left: 500px;
+    align-items: center;
+    width: 40% ;
+    border-collapse:collapse;
+    margin-top: 20px;
+    
+    
+
+}
+
+th{
+background-color: #f0e1e9;
+}
+
+td{
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+    background-color: rgba(232, 154, 167, 0.539);
+
+}
+
+
+
+.img-mascotas2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: rgba(255, 192, 203, 0.676);
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.img-mascotas2 img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+
+.parrafo1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+   border-radius: 10px;
+    background-color: #ffffff;
+    margin-top: 0%;
+    padding: 80px;
+    margin-bottom:  50px;
+}
+
+.primer_titulo{
+    color: #ffffff;
+    margin: auto;
+    text-align: center;
+    
+    
+
+}
+
+
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+   border-radius: 5px;
+    background-color: #d3a6be;
+    margin-top: 0%;
+    padding: 100px;
+    margin-bottom: 50px;
+
+}
+.tdesventajas{
+    margin-top: 50px;
+    
+    
+}
+.Desventajas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+   border-radius: 5px;
+    background-color: #d3a6be;
+    margin-top: 0%;
+    padding: 110px;
+    margin-bottom: 50px;
+}
+
+.adopcion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+   border-radius: 5px;
+    background-color: #d3a6be;
+    margin-top: 0%;
+    padding: 50px;
+    margin-bottom: 50px;
+         
+}
+
+.tadopcion{
+    margin-top: 50px;
+}
+
