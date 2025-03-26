@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generacion de tablas desde javascript</title>
+    <link rel="stylesheet" type="text/css" href="ejercicio_tablas.css"> 
+</head>
+<body>
+    <h1>tabla de datos</h1>
+    <div id="tabla">
+
+    </div>
+    <h2>Agregar Nueva Fila</h2>
+    <form id="formulario">
+        <input type="text" id="id" placeholder="id" required>
+        <input type="text" id="nombre" placeholder="Nombre" required>
+        <input type="text" id="apellido" placeholder="Apellido" required>
+        <input type="email" id="correo" placeholder="correo" required>
+        <input type="tel" id="telefono" placeholder="Telefono" required>
+        <input type="text" id="comentario" placeholder="Comentario" required>
+
+        <button type="button" onclick="agregarFila()">Agrega Fila</button>
+
+    </form>
+
+    <script src="ejercicio_tablas.js" ></script>
+</body>
+</html>
